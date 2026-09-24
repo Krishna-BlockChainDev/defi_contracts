@@ -1,4 +1,4 @@
-# SushiSwap V2 & V3 — Contract Reference
+# SushiSwap based V2 & V3 — Contract Reference
 
 Brief overview of all core contracts in this repository.
 
